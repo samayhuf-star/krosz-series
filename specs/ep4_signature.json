@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep4 – signature mismatch",
+ "lines": [
+  ["cp1","cp","Max is back. Passport signature: normal. Max's signature: a doodle of a cat.","Max is back. Passport signature: normal. Max's signature: a doodle of a cat."],
+  ["tia1","tia","Max. Why does your form have a cat on it?","Max. Why does your form have a cat on it?"],
+  ["max1","max","That's my signature. It's called personal branding.","That's my signature. It's called personal branding."],
+  ["tia2","tia","It must match your passport. Not your sketchbook!","It must match your passport. Not your sketchbook!"],
+  ["max2","max","...The cat has so much character, Tia.","...The cat has so much character, Tia."],
+  ["off1","off","Signature.","Signature."],
+  ["max3","max","Ta-da. Cat, with a tiny crown.","Ta-da. Cat, with a tiny crown."],
+  ["off2","off","Sir. Your passport signature does not have whiskers.","Sir. Your passport signature does not have whiskers."],
+  ["max4","max","But it's limited edition!","But it's limited edition!"],
+  ["off3","off","Signature mismatch. Next.","Signature mismatch. Next."],
+  ["max5","max","Nobody respects art anymore...","Nobody respects art anymore..."],
+  ["tia3","tia","Told you. Sign like your passport. No cats.","Told you. Sign like your passport. No cats."],
+  ["cp2","cp","Check the form rules on krosz dot com. I'm a passport, not an art critic!","Check the form rules on krosz.com. I'm a passport, not an art critic!"]
+ ],
+ "ann": {
+  "max1": "personal branding",
+  "tia2": "bestie... why?",
+  "off1": "Day 12 of 'tomorrow'.",
+  "max3": "crown: included",
+  "off2": "sign ≠ doodle",
+  "max4": "cat = limited edition",
+  "max5": "He trusted the cat.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": ["VISA FORM RULE:","SIGN SAME","MAX'S SIGN:","A CAT"],
+ "hook_size": 150,
+ "ticker": "MAN SIGNS VISA FORM WITH A CAT   +++   CALLS IT 'PERSONAL BRANDING'   +++   EMBASSY: 'PLEASE NO'   +++   ",
+ "title": ["SIGNED","BY CAT"],
+ "title_sub": "(the officer was not amused)",
+ "freeze": "this man signed with a cat",
+ "stamp": ["BAD SIGN.","NO VISA."],
+ "teaser": "Next: The 'flexible' travel plan. (Max again.)",
+ "caption": "Rejection reason of the day: a signature that doesn't match the passport. Max: a cat with a tiny crown. 🐱\nCheck the form rules on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
