@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep4 – passport validity",
+ "lines": [
+  ["cp1","cp","Many countries want six months validity. Max's passport has five weeks.","Many countries want 6 months validity. Max's passport: 5 weeks."],
+  ["tia1","tia","Max. When does your passport expire?","Max. When does your passport expire?"],
+  ["max1","max","Soon-ish. Like, five weeks. It's basically fresh.","Soon-ish. Like, 5 weeks. It's basically fresh."],
+  ["tia2","tia","Fresh? That's yogurt energy, Max!","Fresh? That's yogurt energy, Max!"],
+  ["max2","max","Yogurt lasts longer than you think, Tia.","Yogurt lasts longer than you think, Tia."],
+  ["off1","off","Passport.","Passport."],
+  ["max3","max","Hot off the press. Slightly expiring.","Hot off the press. Slightly expiring."],
+  ["off2","off","Sir. Your passport has a shorter shelf life than my sandwich.","Sir. Your passport has a shorter shelf life than my sandwich."],
+  ["max4","max","But it still works! It has vibes!","But it still works! It has vibes!"],
+  ["off3","off","Rejected. Renew first. Next.","Rejected. Renew first. Next."],
+  ["max5","max","I thought expiry dates were just suggestions...","I thought expiry dates were just suggestions..."],
+  ["tia3","tia","Check validity before booking. Not after crying.","Check validity before booking. Not after crying."],
+  ["cp2","cp","Renew me early. Details on krosz dot com. I'm a passport, not a sandwich!","Renew me early. Details on krosz.com. I'm a passport, not a sandwich!"]
+ ],
+ "ann": {
+  "max1": "expiry: 5 weeks",
+  "tia2": "yogurt energy",
+  "off1": "Day 11 of 'tomorrow'.",
+  "max3": "slightly expiring",
+  "off2": "shelf life < sandwich",
+  "max4": "vibes = valid (disputed)",
+  "max5": "He trusted the vibes.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": ["MANY COUNTRIES WANT:","6 MONTHS","MAX'S PASSPORT:","5 WEEKS LEFT"],
+ "hook_size": 150,
+ "ticker": "MAN TRAVELS WITH 5-WEEK PASSPORT   +++   CALLS IT 'FRESH'   +++   OFFICER: 'YOGURT ENERGY'   +++   ",
+ "title": ["PASSPORT","EXPIRY"],
+ "title_sub": "(it was not fresh)",
+ "freeze": "his passport expires in 5 weeks",
+ "stamp": ["EXPIRING.","NO VISA."],
+ "teaser": "Next: The 'creative' signature. (Max again.)",
+ "caption": "Rejection reason of the day: passport validity. Many countries want months of validity left. Max: 5 weeks. 🧃\nCheck passport validity rules on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
