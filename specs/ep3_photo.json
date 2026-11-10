@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep3 – visa photo",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Max is back. Visa photo rule: no filters. Max's photo: puppy ears.",
+   "Max is back. Visa photo rule: no filters. Max's photo: puppy ears."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Please tell me that's not your visa photo.",
+   "Max. Please tell me that's not your visa photo."
+  ],
+  [
+   "max1",
+   "max",
+   "It's my best angle. The dog filter makes my skin glow.",
+   "It's my best angle. The dog filter makes my skin glow."
+  ],
+  [
+   "tia2",
+   "tia",
+   "The embassy wants a plain photo. Not a Snapchat story!",
+   "The embassy wants a plain photo. Not a Snapchat story!"
+  ],
+  [
+   "max2",
+   "max",
+   "...They'll love the ears, Tia.",
+   "...They'll love the ears, Tia."
+  ],
+  [
+   "off1",
+   "off",
+   "Photograph.",
+   "Photograph."
+  ],
+  [
+   "max3",
+   "max",
+   "Left side, right side, and a little wink.",
+   "Left side, right side, and a little wink."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. This is a visa application, not a dating profile.",
+   "Sir. This is a visa application, not a dating profile."
+  ],
+  [
+   "max4",
+   "max",
+   "But my ears are so cute!",
+   "But my ears are so cute!"
+  ],
+  [
+   "off3",
+   "off",
+   "Photo rejected. Next.",
+   "Photo rejected. Next."
+  ],
+  [
+   "max5",
+   "max",
+   "They didn't even say the ears were cute...",
+   "They didn't even say the ears were cute..."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Told you. Plain background. Zero filters.",
+   "Told you. Plain background. Zero filters."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Check the photo rules on krosz dot com. I'm a passport, not a therapist!",
+   "Check the photo rules on krosz.com. I'm a passport, not a therapist!"
+  ]
+ ],
+ "ann": {
+  "max1": "applying filter",
+  "tia2": "bestie... what?",
+  "off1": "Day 11 of 'tomorrow'.",
+  "max3": "wink: included",
+  "off2": "visa ≠ Tinder",
+  "max4": "ears = cute (disputed)",
+  "max5": "He trusted the ears.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": [
+  "VISA PHOTO RULE:",
+  "NO FILTERS",
+  "MAX'S PHOTO:",
+  "PUPPY EARS"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN UPLOADS VISA PHOTO WITH PUPPY EARS   +++   CALLS IT 'ARTISTIC'   +++   EMBASSY: 'PLEASE NO'   +++   ",
+ "title": [
+  "EMBASSY",
+  "REPLIES"
+ ],
+ "title_sub": "(it was not impressed)",
+ "freeze": "this man uploaded puppy ears",
+ "stamp": [
+  "BAD PHOTO.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The 'creative' signature. (Max again.)",
+ "caption": "Rejection reason of the day: the visa photo. Rule: no filters. Max: puppy ears. 🐶\nCheck the photo rules on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
