@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep4 – signature mismatch",
+ "lines": [
+  ["cp1","cp","Visa form rule: sign like your passport. Max signed with a heart.","Visa form rule: sign like your passport. Max signed with a heart."],
+  ["tia1","tia","Max. Why does your signature have a star on it?","Max. Why does your signature have a star on it?"],
+  ["max1","max","It's my brand, Tia. Influencer energy.","It's my brand, Tia. Influencer energy."],
+  ["tia2","tia","Your passport signature is a boring squiggle. Copy that!","Your passport signature is a boring squiggle. Copy that!"],
+  ["max2","max","But the squiggle has no vibe. I upgraded it.","But the squiggle has no vibe. I upgraded it."],
+  ["off1","off","Sign here.","Sign here."],
+  ["max3","max","Watch this. Loop, flourish, heart, tiny star.","Watch this. Loop, flourish, heart, tiny star."],
+  ["off2","off","Sir. That does not match your passport.","Sir. That does not match your passport."],
+  ["max4","max","It's the same hand! Just more confident!","It's the same hand! Just more confident!"],
+  ["off3","off","Signature mismatch. Application rejected.","Signature mismatch. Application rejected."],
+  ["max5","max","Rejected for being iconic. Classic.","Rejected for being iconic. Classic."],
+  ["tia3","tia","Told you. Boring squiggle. Every time.","Told you. Boring squiggle. Every time."],
+  ["cp2","cp","Match your signature, check krosz dot com. My spine hurts from all this!","Match your signature, check krosz.com. My spine hurts from all this!"]
+ ],
+ "ann": {
+  "max1": "personal brand loading",
+  "tia2": "bestie... squiggle.",
+  "off1": "Day 12 of 'tomorrow'.",
+  "max3": "flourish: included",
+  "off2": "sign ≠ doodle",
+  "max4": "iconic (disputed)",
+  "max5": "He trusted the star.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have been signed on."
+ },
+ "hook": ["VISA FORM RULE:","MATCH SIGN","MAX'S SIGN:","A DOODLE"],
+ "hook_size": 150,
+ "ticker": "MAN SIGNS VISA FORM WITH A STAR   +++   CALLS IT 'PERSONAL BRANDING'   +++   EMBASSY: 'PLEASE NO'   +++   ",
+ "title": ["SIGN","MISMATCH"],
+ "title_sub": "(it was not a vibe)",
+ "freeze": "signed with a heart and a star",
+ "stamp": ["SIGN DOES","NOT MATCH."],
+ "teaser": "Next: The 'flexible' travel plan. (Max again.)",
+ "caption": "Rejection reason of the day: the signature doesn't match the passport. Max signed with a heart and a star. ⭐\nCheck the form rules on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
