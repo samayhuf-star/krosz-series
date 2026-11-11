@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep7 – name mismatch",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Max is back. Visa rule: name must match passport. Max's form: 'Maxxx'.",
+   "Max is back. Visa rule: name must match passport. Max's form: 'Maxxx'."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Why does your form say Maxxx with three x's?",
+   "Max. Why does your form say Maxxx with three x's?"
+  ],
+  [
+   "max1",
+   "max",
+   "It's my brand. Maxxx sounds like a superhero.",
+   "It's my brand. Maxxx sounds like a superhero."
+  ],
+  [
+   "tia2",
+   "tia",
+   "Your passport says Max. One x. Like a normal human!",
+   "Your passport says Max. One x. Like a normal human!"
+  ],
+  [
+   "max2",
+   "max",
+   "...Extra x means extra power, Tia.",
+   "...Extra x means extra power, Tia."
+  ],
+  [
+   "off1",
+   "off",
+   "Name.",
+   "Name."
+  ],
+  [
+   "max3",
+   "max",
+   "Maxxx. With a silent, powerful x.",
+   "Maxxx. With a silent, powerful x."
+  ],
+  [
+   "off2",
+   "off",
+   "Passport says Max. Form says Maxxx. Who are you?",
+   "Passport says Max. Form says Maxxx. Who are you?"
+  ],
+  [
+   "max4",
+   "max",
+   "I'm... both? Can I be both?",
+   "I'm... both? Can I be both?"
+  ],
+  [
+   "off3",
+   "off",
+   "Name mismatch. Rejected.",
+   "Name mismatch. Rejected."
+  ],
+  [
+   "max5",
+   "max",
+   "I lost to a letter. One tiny x...",
+   "I lost to a letter. One tiny x..."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Told you. Copy the name exactly. Letter by letter.",
+   "Told you. Copy the name exactly. Letter by letter."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Match your name on krosz dot com. Even I only have one name, and it's Passport!",
+   "Match your name on krosz.com. Even I only have one name, and it's Passport!"
+  ]
+ ],
+ "ann": {
+  "max1": "brand: Maxxx",
+  "tia2": "bestie... one x.",
+  "off1": "Day 11 of 'tomorrow'.",
+  "max3": "silent x: powerful",
+  "off2": "identity crisis loading",
+  "max4": "identity: both",
+  "max5": "defeated by one letter",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": [
+  "VISA RULE:",
+  "MATCH NAME",
+  "MAX'S FORM:",
+  "MAXXX"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN ADDS EXTRA X TO HIS NAME   +++   CALLS IT 'BRANDING'   +++   EMBASSY: 'WHO ARE YOU?'   +++   ",
+ "title": [
+  "WHO IS",
+  "MAXXX?"
+ ],
+ "title_sub": "(the embassy asked too)",
+ "freeze": "he added a third x. on purpose.",
+ "stamp": [
+  "NAME FAIL.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The 'approximate' travel dates. (Max again.)",
+ "caption": "Rejection reason of the day: name on the form doesn't match the passport. Max added a few extra x's. 😬\nCopy your name exactly as in your passport. Check the basics on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
