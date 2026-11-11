@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep6 – no blank pages",
+ "lines": [
+  ["cp1","cp","Max is back. Visa needs blank pages. Max's passport: zero blank pages.","Max is back. Visa needs blank pages. Max's passport: zero blank pages."],
+  ["tia1","tia","Max. Why is your passport so thick?","Max. Why is your passport so thick?"],
+  ["max1","max","Stamps, stickers, and a very detailed doodle collection.","Stamps, stickers, and a very detailed doodle collection."],
+  ["tia2","tia","The visa needs a clean page. Not your sketchbook!","The visa needs a clean page. Not your sketchbook!"],
+  ["max2","max","...It's called a passport portfolio, Tia.","...It's called a passport portfolio, Tia."],
+  ["off1","off","Passport.","Passport."],
+  ["max3","max","Page one, page two, page cat. Page cat again.","Page one, page two, page cat. Page cat again."],
+  ["off2","off","Sir. Where do I put the visa?","Sir. Where do I put the visa?"],
+  ["max4","max","Um... on the cat?","Um... on the cat?"],
+  ["off3","off","No blank pages. Rejected. Next.","No blank pages. Rejected. Next."],
+  ["max5","max","The cat was my best work...","The cat was my best work..."],
+  ["tia3","tia","Told you. Check the pages before you apply.","Told you. Check the pages before you apply."],
+  ["cp2","cp","Check passport rules on krosz dot com. I'm full, not a notebook!","Check passport rules on krosz.com. I'm full, not a notebook!"]
+ ],
+ "ann": {
+  "max1": "page count: 100%",
+  "tia2": "bestie... why?",
+  "off1": "Day 12 of 'tomorrow'.",
+  "max3": "cat: encore",
+  "off2": "visa needs space",
+  "max4": "visa on cat (denied)",
+  "max5": "He was proud of it.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have no space left."
+ },
+ "hook": ["VISA NEEDS:","BLANK PAGE","MAX'S PASSPORT:","FULL OF CATS"],
+ "hook_size": 120,
+ "ticker": "MAN'S PASSPORT HAS ZERO BLANK PAGES   +++   CALLS IT 'A PORTFOLIO'   +++   EMBASSY: 'WHERE DO I STAMP?'   +++   ",
+ "title": ["NO PAGES","LEFT"],
+ "title_sub": "(the cat took them all)",
+ "freeze": "this man ran out of passport",
+ "stamp": ["NO SPACE.","NO VISA."],
+ "teaser": "Next: The wrong embassy. (Max again.)",
+ "caption": "Rejection reason of the day: no blank pages left in the passport. Visa stickers need space. Max's passport: cat doodles. 🐱\nCheck your passport pages on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
