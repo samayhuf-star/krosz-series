@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep8 – fake hotel booking",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Max is back. Hotel booking must be real. Max's hotel: Room Zero.",
+   "Max is back. Hotel booking must be real. Max's hotel: Room Zero."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Which hotel is this? I can't find it anywhere.",
+   "Max. Which hotel is this? I can't find it anywhere."
+  ],
+  [
+   "max1",
+   "max",
+   "Hotel Burj Khalifa Penthouse. I made the booking myself. In Paint.",
+   "Hotel Burj Khalifa Penthouse. I made the booking myself. In Paint."
+  ],
+  [
+   "tia2",
+   "tia",
+   "Embassies verify bookings. Paint is not a booking engine!",
+   "Embassies verify bookings. Paint is not a booking engine!"
+  ],
+  [
+   "max2",
+   "max",
+   "...The confirmation number is 12345. Looks super official, Tia.",
+   "...The confirmation number is 12345. Looks super official, Tia."
+  ],
+  [
+   "off1",
+   "off",
+   "Hotel booking.",
+   "Hotel booking."
+  ],
+  [
+   "max3",
+   "max",
+   "Five stars. Free breakfast. Also, the hotel is imaginary.",
+   "Five stars. Free breakfast. Also, the hotel is imaginary."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. I called the hotel. The hotel does not exist.",
+   "Sir. I called the hotel. The hotel does not exist."
+  ],
+  [
+   "max4",
+   "max",
+   "But it has a pool! In my imagination!",
+   "But it has a pool! In my imagination!"
+  ],
+  [
+   "off3",
+   "off",
+   "Booking unverifiable. Visa rejected. Next.",
+   "Booking unverifiable. Visa rejected. Next."
+  ],
+  [
+   "max5",
+   "max",
+   "They didn't even ask about the free breakfast...",
+   "They didn't even ask about the free breakfast..."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Told you. Real booking. Real hotel. Real reality.",
+   "Told you. Real booking. Real hotel. Real reality."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Check booking tips on krosz dot com. Even my pages are real!",
+   "Check booking tips on krosz.com. Even my pages are real!"
+  ]
+ ],
+ "ann": {
+  "max1": "booked in Paint",
+  "tia2": "bestie... Paint?!",
+  "off1": "Day 9 of 'it's fine'.",
+  "max3": "breakfast: imaginary",
+  "off2": "hotel.exe not found",
+  "max4": "pool (imaginary)",
+  "max5": "He trusted the pool.",
+  "tia3": "Receipts: real ones.",
+  "cp2": "I have seen things."
+ },
+ "hook": [
+  "VISA RULE:",
+  "REAL HOTEL",
+  "MAX'S HOTEL:",
+  "ROOM ZERO"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN BOOKS HOTEL IN PAINT   +++   CALLS IT 'CONFIRMED'   +++   EMBASSY: 'HOTEL WHO?'   +++   ",
+ "title": [
+  "HOTEL",
+  "CHECK"
+ ],
+ "title_sub": "(the hotel did not exist)",
+ "freeze": "this man booked a hotel in Paint",
+ "stamp": [
+  "FAKE HOTEL.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The 'forgot to sign' form. (Max again.)",
+ "caption": "Rejection reason of the day: a hotel booking that can't be verified. Max booked his in Paint. 🏨🎨\nCheck the booking tips on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
