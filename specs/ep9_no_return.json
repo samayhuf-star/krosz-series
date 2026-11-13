@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep9 – no return ticket",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Max is back. Embassy wants proof you'll return. Max booked one-way.",
+   "Max is back. Embassy wants proof you'll return. Max booked one-way."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Where's your return ticket?",
+   "Max. Where's your return ticket?"
+  ],
+  [
+   "max1",
+   "max",
+   "Return? I'm manifesting a Plan B. The universe has Wi-Fi.",
+   "Return? I'm manifesting a Plan B. The universe has Wi-Fi."
+  ],
+  [
+   "tia2",
+   "tia",
+   "The officer wants proof you'll come back. Not vibes!",
+   "The officer wants proof you'll come back. Not vibes!"
+  ],
+  [
+   "max2",
+   "max",
+   "...I'll buy it after the visa. Obviously.",
+   "...I'll buy it after the visa. Obviously."
+  ],
+  [
+   "off1",
+   "off",
+   "Return ticket?",
+   "Return ticket?"
+  ],
+  [
+   "max3",
+   "max",
+   "I'm a free spirit. Free spirits don't come back.",
+   "I'm a free spirit. Free spirits don't come back."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. That's exactly what we're worried about.",
+   "Sir. That's exactly what we're worried about."
+  ],
+  [
+   "max4",
+   "max",
+   "But I'll definitely come back! Probably! Maybe!",
+   "But I'll definitely come back! Probably! Maybe!"
+  ],
+  [
+   "off3",
+   "off",
+   "Visa refused. Next.",
+   "Visa refused. Next."
+  ],
+  [
+   "max5",
+   "max",
+   "I should've booked the boring ticket...",
+   "I should've booked the boring ticket..."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Told you. Return plan first. Dreams second.",
+   "Told you. Return plan first. Dreams second."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Check the rules on krosz dot com. Don't leave me one-way either, I get lonely!",
+   "Check the rules on krosz.com. Don't leave me one-way either, I get lonely!"
+  ]
+ ],
+ "ann": {
+  "max1": "manifesting Plan B",
+  "tia2": "bestie... what?",
+  "off1": "Day 12 of 'tomorrow'.",
+  "max3": "free spirit: unverified",
+  "off2": "trust issues: valid",
+  "max4": "probably = not proof",
+  "max5": "One-way. Two regrets.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": [
+  "EMBASSY WANTS:",
+  "COME BACK",
+  "MAX BOOKED:",
+  "ONE-WAY"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN BOOKS ONE-WAY TICKET   +++   CALLS IT 'A VIBE'   +++   EMBASSY: 'WILL YOU RETURN?'   +++   ",
+ "title": [
+  "ONE-WAY",
+  "VIBES"
+ ],
+ "title_sub": "(the officer was not convinced)",
+ "freeze": "this man booked one-way only",
+ "stamp": [
+  "NO RETURN.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The wrong embassy. (Max again.)",
+ "caption": "Rejection reason of the day: no proof you'll return. Embassy: show your return plan. Max: one-way vibes. ✈️\nCheck the requirements on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
