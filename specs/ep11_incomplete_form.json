@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep11 – incomplete form",
+ "lines": [
+  ["cp1","cp","Max filled his visa form. All of it. Except the answers.","Max filled his visa form. All of it. Except the answers."],
+  ["tia1","tia","Max. Half the boxes are empty.","Max. Half the boxes are empty."],
+  ["max1","max","Those are optional. They felt optional.","Those are optional. They felt optional."],
+  ["tia2","tia","Your name is also one of those boxes.","Your name is also one of those boxes."],
+  ["max2","max","Mystery is attractive. Officers love mystery.","Mystery is attractive. Officers love mystery."],
+  ["off1","off","Sir, why is the address field blank?","Sir, why is the address field blank?"],
+  ["max3","max","I live in the cloud. Very private.","I live in the cloud. Very private."],
+  ["off2","off","Occupation is also blank. And dates. And everything.","Occupation is also blank. And dates. And everything."],
+  ["max4","max","I was saving the form for the sequel!","I was saving the form for the sequel!"],
+  ["off3","off","Incomplete form. Rejected.","Incomplete form. Rejected."],
+  ["max5","max","But I wrote my name in the margin...","But I wrote my name in the margin..."],
+  ["tia3","tia","In crayon. Next time, check every box.","In crayon. Next time, check every box."],
+  ["cp2","cp","Complete forms live on krosz dot com. I'm a passport, not a mind reader!","Complete forms live on krosz.com. I'm a passport, not a mind reader!"]
+ ],
+ "ann": {
+  "max1": "optional? vibes only",
+  "tia2": "name = a box too",
+  "off1": "Address: blank.",
+  "max3": "address: the cloud",
+  "off2": "everything: blank",
+  "max4": "form 1 of the saga",
+  "max5": "name: in crayon",
+  "tia3": "Check. Every. Box.",
+  "cp2": "I read minds? No."
+ },
+ "hook": ["MAX SUBMITTED:","EMPTY FORM","MAX NEEDED:","ANSWERS"],
+ "hook_size": 120,
+ "ticker": "MAN SUBMITS EMPTY FORM   +++   CALLS IT 'MYSTERY'   +++   OFFICER: 'REJECTED'   +++   ",
+ "title": ["EMPTY","FORM"],
+ "title_sub": "(the boxes were not optional)",
+ "freeze": "this man left the form blank",
+ "stamp": ["INCOMPLETE.","NO VISA."],
+ "teaser": "Next: The unclear travel plan. (Max again.)",
+ "caption": "Rejection reason of the day: incomplete application form. Max: 'The boxes felt optional.' Officer: 'They were not.' 📝\nDouble-check every field before you submit. Get started on krosz.com.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
