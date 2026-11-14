@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep10 – wrong embassy",
+ "lines": [
+  ["cp1","cp","Max is back. He applied for a visa. At the wrong embassy.","Max is back. He applied for a visa. At the wrong embassy."],
+  ["tia1","tia","Max. Why are you at the French embassy?","Max. Why are you at the French embassy?"],
+  ["max1","max","Europe is Europe. Close enough, right?","Europe is Europe. Close enough, right?"],
+  ["tia2","tia","You're applying for Germany. Different country, bestie.","You're applying for Germany. Different country, bestie."],
+  ["max2","max","They both have croissants. I checked. Mentally.","They both have croissants. I checked. Mentally."],
+  ["off1","off","Which country is your application for?","Which country is your application for?"],
+  ["max3","max","Europe. The big one. With the nice buildings.","Europe. The big one. With the nice buildings."],
+  ["off2","off","Sir. This is not the correct embassy.","Sir. This is not the correct embassy."],
+  ["max4","max","But you're so close to Germany! Basically neighbours!","But you're so close to Germany! Basically neighbours!"],
+  ["off3","off","Application not accepted. Next.","Application not accepted. Next."],
+  ["max5","max","Google Maps said turn left...","Google Maps said turn left..."],
+  ["tia3","tia","Maps can't read your application. I can.","Maps can't read your application. I can."],
+  ["cp2","cp","Check the right office on krosz dot com. I'm a passport, not a GPS!","Check the right office on krosz.com. I'm a passport, not a GPS!"]
+ ],
+ "ann": {
+  "max1": "geography: optional",
+  "tia2": "bestie... what?",
+  "off1": "Day 14 of 'Europe'.",
+  "max3": "country: the big one",
+  "off2": "wrong door: confirmed",
+  "max4": "neighbours != embassy",
+  "max5": "One map. Zero clue.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": ["MAX WENT TO:","WRONG DOOR","MAX NEEDED:","GERMANY"],
+ "hook_size": 150,
+ "ticker": "MAN VISITS WRONG EMBASSY   +++   CALLS IT 'CLOSE ENOUGH'   +++   OFFICER: 'WRONG OFFICE'   +++   ",
+ "title": ["WRONG","DOOR"],
+ "title_sub": "(the officer was not amused)",
+ "freeze": "this man picked the wrong embassy",
+ "stamp": ["WRONG DOOR.","NO VISA."],
+ "teaser": "Next: The incomplete form. (Max again.)",
+ "caption": "Rejection reason of the day: applying at the wrong embassy or centre. Max: 'Europe is Europe.' Officer: 'No.' 🚪\nCheck which office handles your application on krosz.com before you go.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
