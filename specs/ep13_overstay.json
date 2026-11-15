@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep13 – previous overstay",
+ "lines": [
+  ["cp1","cp","Max's last trip was seven days. He stayed three years. Bold.","Max's last trip was 7 days. He stayed 3 years. Bold."],
+  ["tia1","tia","Max. Your old visa expired like, ages ago.","Max. Your old visa expired like, ages ago."],
+  ["max1","max","I wasn't overstaying. I was extending my vibe.","I wasn't overstaying. I was extending my vibe."],
+  ["tia2","tia","The immigration record calls it 'overstay'. Rude, but accurate.","The immigration record calls it 'overstay'. Rude, but accurate."],
+  ["max2","max","Nobody checks old records, Tia. Relax.","Nobody checks old records, Tia. Relax."],
+  ["off1","off","Sir. Your previous stay. Please explain.","Sir. Your previous stay. Please explain."],
+  ["max3","max","I fell in love with the weather.","I fell in love with the weather."],
+  ["off2","off","Your visa ended in the same season as your motivation.","Your visa ended long before your motivation."],
+  ["max4","max","But I always planned to leave! Eventually!","But I always planned to leave! Eventually!"],
+  ["off3","off","Previous overstay. Rejected.","Previous overstay. Rejected."],
+  ["max5","max","The weather was really nice though...","The weather was really nice though..."],
+  ["tia3","tia","Respect the dates on your visa. Records stay forever.","Respect the dates on your visa. Records stay forever."],
+  ["cp2","cp","Know your dates on krosz dot com. I'm a passport, not a time machine!","Know your dates on krosz.com. I'm a passport, not a time machine!"]
+ ],
+ "ann": {
+  "max1": "overstay → 'vibe extension'",
+  "tia2": "record: overstay",
+  "off1": "Previous stay? Explain.",
+  "max3": "reason: weather",
+  "off2": "visa: expired. Mood: same.",
+  "max4": "leaving: 'eventually'",
+  "max5": "weather ≠ legal reason",
+  "tia3": "Dates matter.",
+  "cp2": "Time machine? No."
+ },
+ "hook": ["MAX'S VISIT:","7 DAYS","MAX STAYED:","3 YEARS"],
+ "hook_size": 150,
+ "ticker": "MAN STAYS 3 YEARS ON A 7-DAY VISA   +++   CALLS IT 'EXTENDING THE VIBE'   +++   OFFICER: 'REJECTED'   +++   ",
+ "title": ["HE STAYED","3 YEARS"],
+ "title_sub": "(the weather was nice)",
+ "freeze": "this man's 7-day trip: 3 years",
+ "stamp": ["OVERSTAY.","NO VISA."],
+ "teaser": "Next: The forgotten signature. (Max again.)",
+ "caption": "Rejection reason of the day: a previous overstay. Max: 'I was extending my vibe.' Officer: 'The record says overstay.' 🌦️\nStay within the dates on your visa, and check the rules for your destination on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
