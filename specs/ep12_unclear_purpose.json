@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep12 – unclear travel purpose",
+ "lines": [
+  ["cp1","cp","Max applied for a visa. Purpose of travel: vibes and stuff.","Max applied for a visa. Purpose of travel: vibes and stuff."],
+  ["tia1","tia","Max. Tourism, work or study? Pick one.","Max. Tourism, work or study? Pick one."],
+  ["max1","max","Why limit myself? I'll do a little of everything.","Why limit myself? I'll do a little of everything."],
+  ["tia2","tia","Your itinerary says: 'see what happens'.","Your itinerary says: 'see what happens'."],
+  ["max2","max","Spontaneous plans are the best plans.","Spontaneous plans are the best plans."],
+  ["off1","off","Sir, what is the purpose of your trip?","Sir, what is the purpose of your trip?"],
+  ["max3","max","Main character development. Maybe snacks.","Main character development. Maybe snacks."],
+  ["off2","off","Where will you stay? Which dates? Which cities?","Where will you stay? Which dates? Which cities?"],
+  ["max4","max","Yes! All of them! Somewhere! Sometime!","Yes! All of them! Somewhere! Sometime!"],
+  ["off3","off","Unclear purpose. Rejected.","Unclear purpose. Rejected."],
+  ["max5","max","But my plan was flexible and mysterious...","But my plan was flexible and mysterious..."],
+  ["tia3","tia","It was empty. State a clear purpose, with dates.","It was empty. State a clear purpose, with dates."],
+  ["cp2","cp","Plan your trip on krosz dot com. I'm a passport, not a travel horoscope!","Plan your trip on krosz.com. I'm a passport, not a travel horoscope!"]
+ ],
+ "ann": {
+  "max1": "tourism + work + study?",
+  "tia2": "plan: 'see what happens'",
+  "off1": "Purpose? Specific.",
+  "max3": "purpose: character arc",
+  "off2": "dates: unknown",
+  "max4": "plan: somewhere, sometime",
+  "max5": "flexible = empty",
+  "tia3": "Clear purpose. Real dates.",
+  "cp2": "Horoscope? Not me."
+ },
+ "hook": ["MAX'S PURPOSE:","VIBES","MAX'S PLAN:","NONE"],
+ "hook_size": 150,
+ "ticker": "MAN APPLIES WITH NO PLAN   +++   CALLS IT 'FLEXIBLE'   +++   OFFICER: 'REJECTED'   +++   ",
+ "title": ["NO PLAN","TRIP"],
+ "title_sub": "(the itinerary was a mood)",
+ "freeze": "this man's itinerary: a mood",
+ "stamp": ["UNCLEAR.","NO VISA."],
+ "teaser": "Next: The overstay history. (Max again.)",
+ "caption": "Rejection reason of the day: unclear purpose of travel. Max: 'My plan is flexible.' Officer: 'It is empty.' 🧳\nState a clear purpose and have your dates and stay details ready before you apply. Get started on krosz.com.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
