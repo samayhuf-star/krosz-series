@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep15 – unsigned form",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Max filled the whole visa form. Forgot one tiny thing. The signature.",
+   "Max filled the whole visa form. Forgot one tiny thing. The signature."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Where's your signature?",
+   "Max. Where's your signature?"
+  ],
+  [
+   "max1",
+   "max",
+   "My aura signs it automatically. Very high-tech.",
+   "My aura signs it automatically. Very high-tech."
+  ],
+  [
+   "tia2",
+   "tia",
+   "Auras don't count as ink, Max!",
+   "Auras don't count as ink, Max!"
+  ],
+  [
+   "max2",
+   "max",
+   "...The pen was far. Like, across the room.",
+   "...The pen was far. Like, across the room."
+  ],
+  [
+   "off1",
+   "off",
+   "Application. Sign here.",
+   "Application. Sign here."
+  ],
+  [
+   "max3",
+   "max",
+   "I'll just blink twice. Official enough.",
+   "I'll just blink twice. Official enough."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. The line is empty. It's been staring at me.",
+   "Sir. The line is empty. It's been staring at me."
+  ],
+  [
+   "max4",
+   "max",
+   "But I filled everything else so well!",
+   "But I filled everything else so well!"
+  ],
+  [
+   "off3",
+   "off",
+   "Unsigned form. Rejected.",
+   "Unsigned form. Rejected."
+  ],
+  [
+   "max5",
+   "max",
+   "One squiggle. One squiggle would've saved me...",
+   "One squiggle. One squiggle would've saved me..."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Read. Sign. Date. Three steps. Three!",
+   "Read. Sign. Date. Three steps. Three!"
+  ],
+  [
+   "cp2",
+   "cp",
+   "Check the form rules on krosz dot com. I'm a passport, not a pen!",
+   "Check the form rules on krosz.com. I'm a passport, not a pen!"
+  ]
+ ],
+ "ann": {
+  "max1": "aura = signature",
+  "tia2": "aura ≠ ink",
+  "off1": "Sign. Here.",
+  "max3": "blink = legally binding",
+  "off2": "the line is judging you",
+  "max4": "1 line left blank",
+  "max5": "one squiggle. ONE.",
+  "tia3": "Read. Sign. Date.",
+  "cp2": "Pen not included."
+ },
+ "hook": [
+  "MAX'S FORM:",
+  "UNSIGNED",
+  "THE LINE:",
+  "EMPTY"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN SUBMITS VISA FORM WITHOUT SIGNING   +++   SAYS 'MY AURA SIGNS IT'   +++   OFFICER: 'SIGN HERE'   +++   ",
+ "title": [
+  "SIGN",
+  "HERE"
+ ],
+ "title_sub": "(the line was very empty)",
+ "freeze": "this man's aura 'signed' the form",
+ "stamp": [
+  "UNSIGNED.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The tiny passport photo. (Max again.)",
+ "caption": "Rejection reason of the day: the unsigned application form. Max: 'My aura signs it automatically.' Officer: 'Sign here.' ✍️\nRead the form, sign it, date it, and check the form rules for your destination on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
