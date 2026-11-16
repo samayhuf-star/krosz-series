@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep14 – blurry documents",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Max scanned his documents. With a potato. Allegedly.",
+   "Max scanned his documents. With a potato. Allegedly."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. I can't read a single word on this.",
+   "Max. I can't read a single word on this."
+  ],
+  [
+   "max1",
+   "max",
+   "It's called artistic blur. Very mysterious. Very premium.",
+   "It's called artistic blur. Very mysterious. Very premium."
+  ],
+  [
+   "tia2",
+   "tia",
+   "Embassies need clear scans. Not abstract art!",
+   "Embassies need clear scans. Not abstract art!"
+  ],
+  [
+   "max2",
+   "max",
+   "...Zoom in, Tia. The vibes are readable.",
+   "...Zoom in, Tia. The vibes are readable."
+  ],
+  [
+   "off1",
+   "off",
+   "Documents. Please.",
+   "Documents. Please."
+  ],
+  [
+   "max3",
+   "max",
+   "Taken in bed. In the dark. Using confidence.",
+   "Taken in bed. In the dark. Using confidence."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. I can't read this. My glasses just quit.",
+   "Sir. I can't read this. My glasses just quit."
+  ],
+  [
+   "max4",
+   "max",
+   "But the blur has so much character!",
+   "But the blur has so much character!"
+  ],
+  [
+   "off3",
+   "off",
+   "Unreadable documents. Rejected.",
+   "Unreadable documents. Rejected."
+  ],
+  [
+   "max5",
+   "max",
+   "I thought blurry meant mysterious...",
+   "I thought blurry meant mysterious..."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Clear scans. Good light. Flat page. Easy.",
+   "Clear scans. Good light. Flat page. Easy."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Check the document rules on krosz dot com. I'm a passport, not a magnifying glass!",
+   "Check the document rules on krosz.com. I'm a passport, not a magnifying glass!"
+  ]
+ ],
+ "ann": {
+  "max1": "blur = 'premium'",
+  "tia2": "abstract art??",
+  "off1": "Documents. Clear ones.",
+  "max3": "light source: none",
+  "off2": "even the stamp squinted",
+  "max4": "blur ≠ character",
+  "max5": "mystery: not a visa reason",
+  "tia3": "Flat page. Good light.",
+  "cp2": "Zoom: not included."
+ },
+ "hook": [
+  "MAX'S SCANS:",
+  "BLURRY",
+  "OFFICER'S EYES:",
+  "DONE"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN SCANS VISA DOCUMENTS IN THE DARK   +++   CALLS THE BLUR 'PREMIUM'   +++   OFFICER: 'I CAN'T READ THIS'   +++   ",
+ "title": [
+  "CAN'T",
+  "READ IT"
+ ],
+ "title_sub": "(the blur was not premium)",
+ "freeze": "this man scanned in the dark",
+ "stamp": [
+  "UNREADABLE",
+  "NO VISA."
+ ],
+ "teaser": "Next: The forgotten signature. (Max again.)",
+ "caption": "Rejection reason of the day: unreadable documents. Max: 'It's called artistic blur.' Officer: 'I can't read this.' 🔍\nUse clear, well-lit scans and check the document rules for your destination on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
