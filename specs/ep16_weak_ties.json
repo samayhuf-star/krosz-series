@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep16 – weak ties to home country",
+ "lines": [
+  ["cp1","cp","Max wants a visa. Ties to home? Just one hoodie.","Max wants a visa. Ties to home? Just one hoodie."],
+  ["tia1","tia","Max. Why would you ever come back?","Max. Why would you ever come back?"],
+  ["max1","max","Home has Wi-Fi. Abroad has Wi-Fi. Basically same.","Home has Wi-Fi. Abroad has Wi-Fi. Basically same."],
+  ["tia2","tia","Officers want job, studies, family. Real ties, Max!","Officers want job, studies, family. Real ties, Max!"],
+  ["max2","max","My ties? Strong emotional bond with my bed.","My ties? Strong emotional bond with my bed."],
+  ["off1","off","Purpose of visit? And when do you return?","Purpose of visit? And when do you return?"],
+  ["max3","max","Return? Spiritually, yes. Physically, we'll see.","Return? Spiritually, yes. Physically, we'll see."],
+  ["off2","off","Job? Family? Anything holding you here?","Job? Family? Anything holding you here?"],
+  ["max4","max","My Netflix streak is eighty days. Hello?","My Netflix streak is 80 days. Hello?"],
+  ["off3","off","Weak ties to home. Rejected.","Weak ties to home. Rejected."],
+  ["max5","max","But my bed will miss me...","But my bed will miss me..."],
+  ["tia3","tia","Show job, studies, family. Not your mattress.","Show job, studies, family. Not your mattress."],
+  ["cp2","cp","Plan it right on krosz dot com. I'm a passport, not a boomerang!","Plan it right on krosz.com. I'm a passport, not a boomerang!"]
+ ],
+ "ann": {
+  "max1": "wifi = home?",
+  "tia2": "bed ≠ tie",
+  "off1": "When do you return?",
+  "max3": "spiritually, yes",
+  "off2": "anything here?",
+  "max4": "80-day streak",
+  "max5": "the bed will cry",
+  "tia3": "Job. Studies. Family.",
+  "cp2": "Boomerang? No."
+ },
+ "hook": ["MAX'S TIES:","ZERO","HIS PLAN:","NEVER BACK"],
+ "hook_size": 120,
+ "ticker": "MAN HAS ONE TIE TO HOME: HIS BED   +++   OFFICER: 'ANYTHING HOLDING YOU HERE?'   +++   MAX: 'MY NETFLIX STREAK'   +++   ",
+ "title": ["WEAK","TIES"],
+ "title_sub": "(the bed was not a reason)",
+ "freeze": "his only tie to home: his bed",
+ "stamp": ["WEAK TIES.","NO VISA."],
+ "teaser": "Next: The missing bank proof. (Max again.)",
+ "caption": "Rejection reason of the day: weak ties to the home country. Max: 'My strongest tie is my bed.' Officer: 'Rejected.' 🛏️\nShow genuine reasons to return, like job, studies or family, and plan your documents on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
