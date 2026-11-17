@@ -1,0 +1,39 @@
+{
+ "title_ep": "Ep17 – employment cannot be verified",
+ "lines": [
+  ["cp1","cp","Max says he's employed. Employer? A guy named Raj.","Max says he's employed. Employer? A guy named Raj."],
+  ["tia1","tia","Max, where's your offer letter or payslip?","Max, where's your offer letter or payslip?"],
+  ["max1","max","Raj told me on WhatsApp. Voice note. Very official.","Raj told me on WhatsApp. Voice note. Very official."],
+  ["tia2","tia","Officers must verify your job. A voice note isn't proof!","Officers must verify your job. A voice note isn't proof!"],
+  ["max2","max","My title is CEO of Vibes. Company phone: mom's number.","My title is CEO of Vibes. Company phone: mom's number."],
+  ["off1","off","Employer name? Contact number? Documents?","Employer name? Contact number? Documents?"],
+  ["max3","max","Company is stealth. Even I don't know what we do.","Company is stealth. Even I don't know what we do."],
+  ["off2","off","Salary slips? Employment letter? Anything?","Salary slips? Employment letter? Anything?"],
+  ["max4","max","I have a LinkedIn post. With three likes. Hello?","I have a LinkedIn post. With three likes. Hello?"],
+  ["off3","off","Employment not verifiable. Rejected.","Employment not verifiable. Rejected."],
+  ["max5","max","Raj, you ghosted me again...","Raj, you ghosted me again..."],
+  ["tia3","tia","Get real papers. Not real vibes.","Get real papers. Not real vibes."],
+  ["cp2","cp","Organise genuine documents on krosz dot com. I'm a passport, not Raj's HR!","Organise genuine documents on krosz.com. I'm a passport, not Raj's HR!"]
+ ],
+ "ann": {
+  "max1": "voice note = proof?",
+  "tia2": "offer letter needed",
+  "max2": "CEO of Vibes",
+  "off1": "Can we verify it?",
+  "max3": "company: stealth mode",
+  "off2": "payslips?",
+  "max4": "3 likes on LinkedIn",
+  "max5": "Raj left him on read",
+  "tia3": "Real papers only",
+  "cp2": "Raj's HR? No."
+ },
+ "hook": ["MAX'S JOB:","CEO OF VIBES","PROOF:","ZERO"],
+ "hook_size": 120,
+ "ticker": "MAN IS 'EMPLOYED' BY A GUY NAMED RAJ   +++   OFFICER: 'CAN WE VERIFY THIS?'   +++   MAX: 'IT WAS A VOICE NOTE'   +++   ",
+ "title": ["JOB NOT","VERIFIED"],
+ "title_sub": "(a voice note is not a payslip)",
+ "freeze": "his employer: a guy named Raj",
+ "stamp": ["NO PROOF.","NO VISA."],
+ "teaser": "Next: The suspicious bank statement. (Max again.)",
+ "caption": "Rejection reason of the day: employment details that can't be verified. Max: 'My boss Raj sent a voice note.' Officer: 'Rejected.' 🎙️\nKeep genuine, verifiable documents like an employment letter and payslips ready, and organise your checklist on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
