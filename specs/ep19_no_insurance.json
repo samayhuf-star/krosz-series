@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep19 – no travel insurance",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Visa checklist: travel insurance. Max's insurance: good vibes.",
+   "Visa checklist: travel insurance. Max's insurance: good vibes."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Where's your travel insurance document?",
+   "Max. Where's your travel insurance document?"
+  ],
+  [
+   "max1",
+   "max",
+   "Insurance? I'm manifesting zero accidents.",
+   "Insurance? I'm manifesting zero accidents."
+  ],
+  [
+   "tia2",
+   "tia",
+   "The embassy wants a paper, not a prayer!",
+   "The embassy wants a paper, not a prayer!"
+  ],
+  [
+   "max2",
+   "max",
+   "...Universe is my insurance agent, Tia.",
+   "...Universe is my insurance agent, Tia."
+  ],
+  [
+   "off1",
+   "off",
+   "Insurance proof.",
+   "Insurance proof."
+  ],
+  [
+   "max3",
+   "max",
+   "Here. A screenshot of my horoscope.",
+   "Here. A screenshot of my horoscope."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. Mercury retrograde is not a policy.",
+   "Sir. Mercury retrograde is not a policy."
+  ],
+  [
+   "max4",
+   "max",
+   "But Leo season is covered!",
+   "But Leo season is covered!"
+  ],
+  [
+   "off3",
+   "off",
+   "Insurance missing. Next.",
+   "Insurance missing. Next."
+  ],
+  [
+   "max5",
+   "max",
+   "The universe ghosted me. Again.",
+   "The universe ghosted me. Again."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Told you. Real policy. Real paper. Zero horoscopes.",
+   "Told you. Real policy. Real paper. Zero horoscopes."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Check what documents you need on krosz dot com. I'm a passport, not a fortune teller!",
+   "Check what documents you need on krosz.com. I'm a passport, not a fortune teller!"
+  ]
+ ],
+ "ann": {
+  "max1": "manifesting: ON",
+  "tia2": "bestie... what?",
+  "off1": "Day 9 of 'it'll be fine'.",
+  "max3": "source: Co-Star app",
+  "off2": "stars ≠ coverage",
+  "max4": "Leo = protected (disputed)",
+  "max5": "He trusted the stars.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": [
+  "INSURANCE PROOF:",
+  "MISSING",
+  "MAX'S PLAN:",
+  "GOOD VIBES"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN SKIPS TRAVEL INSURANCE   +++   SUBMITS HOROSCOPE INSTEAD   +++   EMBASSY: 'PLEASE NO'   +++   ",
+ "title": [
+  "NO COVER",
+  "NO VISA"
+ ],
+ "title_sub": "(the stars were not liable)",
+ "freeze": "this man insured himself with Leo",
+ "stamp": [
+  "NO PAPER.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The expired bank statement. (Max again.)",
+ "caption": "Rejection reason of the day: missing travel insurance proof. Max's policy: his horoscope. ♌\nCheck what documents you need on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
