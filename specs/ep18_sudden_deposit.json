@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep18 – suspicious bank deposit",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Max's bank balance: zero. Yesterday it was two lakh. Suspicious? Nah.",
+   "Max's bank balance: zero. Yesterday it was two lakh. Suspicious? Nah."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Why did you deposit two lakh the day before applying?",
+   "Max. Why did you deposit two lakh the day before applying?"
+  ],
+  [
+   "max1",
+   "max",
+   "A friend lent it. Just for the photoshoot. I mean statement.",
+   "A friend lent it. Just for the photoshoot. I mean statement."
+  ],
+  [
+   "tia2",
+   "tia",
+   "They check where the money came from. That's literally their job!",
+   "They check where the money came from. That's literally their job!"
+  ],
+  [
+   "max2",
+   "max",
+   "...I'll say it's my savings. Confidently.",
+   "...I'll say it's my savings. Confidently."
+  ],
+  [
+   "off1",
+   "off",
+   "Bank statement.",
+   "Bank statement."
+  ],
+  [
+   "max3",
+   "max",
+   "Rich uncle, crypto, lottery. Pick any one.",
+   "Rich uncle, crypto, lottery. Pick any one."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. Your account is empty for two years. Then, magic.",
+   "Sir. Your account is empty for two years. Then, magic."
+  ],
+  [
+   "max4",
+   "max",
+   "But the money was real for one day!",
+   "But the money was real for one day!"
+  ],
+  [
+   "off3",
+   "off",
+   "Funds unexplained. Next.",
+   "Funds unexplained. Next."
+  ],
+  [
+   "max5",
+   "max",
+   "Even my bank balance had a glow-up for nothing...",
+   "Even my bank balance had a glow-up for nothing..."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Told you. Real savings. Real source. Zero drama.",
+   "Told you. Real savings. Real source. Zero drama."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Check the money rules on krosz dot com. I'm a passport, not a bank!",
+   "Check the money rules on krosz.com. I'm a passport, not a bank!"
+  ]
+ ],
+ "ann": {
+  "max1": "borrowed rich era",
+  "tia2": "bestie, they audit",
+  "off1": "Day 1 of 'rich'.",
+  "max3": "story: pending",
+  "off2": "2 years empty. then boom.",
+  "max4": "rich for 24 hours",
+  "max5": "glow-up: rented",
+  "tia3": "Receipts: real ones.",
+  "cp2": "I have seen balances."
+ },
+ "hook": [
+  "BANK RULE:",
+  "REAL SAVINGS",
+  "MAX'S BALANCE:",
+  "BORROWED"
+ ],
+ "hook_size": 120,
+ "ticker": "MAN DEPOSITS TWO LAKH FOR ONE DAY   +++   CALLS IT 'SAVINGS'   +++   EMBASSY: 'WHERE FROM?'   +++   ",
+ "title": [
+  "BANK",
+  "ASKS WHO"
+ ],
+ "title_sub": "(the deposit had questions)",
+ "freeze": "deposit: 'from a friend'",
+ "stamp": [
+  "FAKE RICH.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The missing travel insurance. (Max again.)",
+ "caption": "Rejection reason of the day: a sudden unexplained bank deposit. Max rented a rich era for one day. 💸\nShow real savings and be ready to explain where your funds come from. Check the money rules on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
