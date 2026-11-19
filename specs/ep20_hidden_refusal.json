@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep20 – hidden previous refusal",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Form question: any previous visa refusal? Max ticked: no. Bold.",
+   "Form question: any previous visa refusal? Max ticked: no. Bold."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. You were refused last year. Remember?",
+   "Max. You were refused last year. Remember?"
+  ],
+  [
+   "max1",
+   "max",
+   "That was a different era. I've grown.",
+   "That was a different era. I've grown."
+  ],
+  [
+   "tia2",
+   "tia",
+   "Embassies keep records. They don't keep vibes!",
+   "Embassies keep records. They don't keep vibes!"
+  ],
+  [
+   "max2",
+   "max",
+   "...So I just rebrand? New me, clean history.",
+   "...So I just rebrand? New me, clean history."
+  ],
+  [
+   "off1",
+   "off",
+   "Previous refusal declared?",
+   "Previous refusal declared?"
+  ],
+  [
+   "max3",
+   "max",
+   "No, officer. I'm a first-timer. Very pure.",
+   "No, officer. I'm a first-timer. Very pure."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. Your old refusal is on my screen. Hi.",
+   "Sir. Your old refusal is on my screen. Hi."
+  ],
+  [
+   "max4",
+   "max",
+   "That's... a different Max! My twin!",
+   "That's... a different Max! My twin!"
+  ],
+  [
+   "off3",
+   "off",
+   "Hidden refusal. Visa denied.",
+   "Hidden refusal. Visa denied."
+  ],
+  [
+   "max5",
+   "max",
+   "I lied to a database. It remembered.",
+   "I lied to a database. It remembered."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Told you. Honest form. Even if it's awkward.",
+   "Told you. Honest form. Even if it's awkward."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Be honest, then check krosz dot com. I'm a passport, not a magician!",
+   "Be honest, then check krosz.com. I'm a passport, not a magician!"
+  ]
+ ],
+ "ann": {
+  "max1": "growth arc: loading",
+  "tia2": "bestie... they have files",
+  "off1": "Day 11 of 'it'll be fine'.",
+  "max3": "pure. allegedly.",
+  "off2": "records ≠ rumours",
+  "max4": "twin claim: unverified",
+  "max5": "He ghosted the truth.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": [
+  "PAST REFUSAL:",
+  "HIDDEN",
+  "MAX'S FORM:",
+  "FIRST TIME"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN HIDES OLD REFUSAL   +++   CLAIMS 'FIRST TIME'   +++   EMBASSY: 'WE HAVE FILES'   +++   ",
+ "title": [
+  "HIDDEN",
+  "REFUSAL"
+ ],
+ "title_sub": "(the database never forgets)",
+ "freeze": "he hid it from the embassy. lol",
+ "stamp": [
+  "LIED ONCE.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The photo from ten years ago. (Max again.)",
+ "caption": "Rejection reason of the day: not declaring a previous visa refusal. Max's strategy: pretend it never happened. 🙃\nAlways answer application questions honestly, and check what you need on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
