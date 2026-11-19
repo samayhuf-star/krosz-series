@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep21 – wrong visa category",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Max applied for a tourist visa. To work there. Bold.",
+   "Max applied for a tourist visa. To work there. Bold."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Tourist visa means tourism. Not a job.",
+   "Max. Tourist visa means tourism. Not a job."
+  ],
+  [
+   "max1",
+   "max",
+   "I'll tour... professionally. For money.",
+   "I'll tour... professionally. For money."
+  ],
+  [
+   "tia2",
+   "tia",
+   "That's literally called working, genius.",
+   "That's literally called working, genius."
+  ],
+  [
+   "max2",
+   "max",
+   "What if I just call it a paid vibe-trip?",
+   "What if I just call it a paid vibe-trip?"
+  ],
+  [
+   "off1",
+   "off",
+   "Purpose of visit?",
+   "Purpose of visit?"
+  ],
+  [
+   "max3",
+   "max",
+   "Tourism. Also I start Monday. At the office.",
+   "Tourism. Also I start Monday. At the office."
+  ],
+  [
+   "off2",
+   "off",
+   "Tourists don't have desk setups, sir.",
+   "Tourists don't have desk setups, sir."
+  ],
+  [
+   "max4",
+   "max",
+   "It's a portable desk! Very touristy!",
+   "It's a portable desk! Very touristy!"
+  ],
+  [
+   "off3",
+   "off",
+   "Wrong visa category. Denied.",
+   "Wrong visa category. Denied."
+  ],
+  [
+   "max5",
+   "max",
+   "I picked the cheapest option. It was the wrong one.",
+   "I picked the cheapest option. It was the wrong one."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Match your visa type to your plan. Always.",
+   "Match your visa type to your plan. Always."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Pick the right visa on krosz dot com. I'm a passport, not a career coach!",
+   "Pick the right visa on krosz.com. I'm a passport, not a career coach!"
+  ]
+ ],
+ "ann": {
+  "max1": "tour. professionally.",
+  "tia2": "bestie... that's a job",
+  "off1": "Day 12 of 'it'll be fine'.",
+  "max3": "tourist. with a laptop.",
+  "off2": "suspicious backpack",
+  "max4": "portable desk: yes",
+  "max5": "saved money. lost trip.",
+  "tia3": "Plan first. Apply second.",
+  "cp2": "I've stamped worse."
+ },
+ "hook": [
+  "VISA TYPE:",
+  "WRONG",
+  "MAX'S PLAN:",
+  "WORK TRIP"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN APPLIES AS TOURIST   +++   STARTS JOB MONDAY   +++   OFFICER: 'WHERE'S YOUR HOLIDAY?'   +++   ",
+ "title": [
+  "WRONG",
+  "VISA"
+ ],
+ "title_sub": "(tourist visa, office plans)",
+ "freeze": "tourist visa. but he's working. lol",
+ "stamp": [
+  "WRONG",
+  "CATEGORY."
+ ],
+ "teaser": "Next: The bank statement edited in Paint. (Max again.)",
+ "caption": "Rejection reason of the day: applying under the wrong visa category. Max picked 'tourist' for a work trip. 🙃\nChoose the visa type that matches your real purpose, and check the requirements on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
