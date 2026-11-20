@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep23 – outdated bank statement",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Embassy wants recent bank statements. Max sent one from twenty nineteen.",
+   "Embassy wants recent bank statements. Max sent one from twenty nineteen."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. That statement is older than your phone.",
+   "Max. That statement is older than your phone."
+  ],
+  [
+   "max1",
+   "max",
+   "Money doesn't expire, Tia. It just matures. Like me.",
+   "Money doesn't expire, Tia. It just matures. Like me."
+  ],
+  [
+   "tia2",
+   "tia",
+   "They want the last three months. Not a throwback Thursday.",
+   "They want the last three months. Not a throwback Thursday."
+  ],
+  [
+   "max2",
+   "max",
+   "...Vintage statements have more character.",
+   "...Vintage statements have more character."
+  ],
+  [
+   "off1",
+   "off",
+   "Bank statement.",
+   "Bank statement."
+  ],
+  [
+   "max3",
+   "max",
+   "Premium vintage. Balance included. Mostly zeros.",
+   "Premium vintage. Balance included. Mostly zeros."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. This predates your last haircut.",
+   "Sir. This predates your last haircut."
+  ],
+  [
+   "max4",
+   "max",
+   "But it's a classic! Collectors love it!",
+   "But it's a classic! Collectors love it!"
+  ],
+  [
+   "off3",
+   "off",
+   "Documents outdated. Next.",
+   "Documents outdated. Next."
+  ],
+  [
+   "max5",
+   "max",
+   "Nobody appreciates a good archive anymore...",
+   "Nobody appreciates a good archive anymore..."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Last three months. Fresh. Stamped. Not museum pieces.",
+   "Last three months. Fresh. Stamped. Not museum pieces."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Get your document checklist on krosz dot com. I'm a passport, not a time machine!",
+   "Get your document checklist on krosz.com. I'm a passport, not a time machine!"
+  ]
+ ],
+ "ann": {
+  "max1": "money 'matures'",
+  "tia2": "fresh. recent. please.",
+  "off1": "Day 2 of 'tomorrow'.",
+  "max3": "vintage: 2019",
+  "off2": "older than the haircut",
+  "max4": "collectors item (disputed)",
+  "max5": "Archive: rejected.",
+  "tia3": "Receipts: current.",
+  "cp2": "I have seen things."
+ },
+ "hook": [
+  "BANK STATEMENT RULE:",
+  "RECENT ONLY",
+  "MAX'S STATEMENT:",
+  "FROM 2019"
+ ],
+ "hook_size": 150,
+ "ticker": "MAN SUBMITS 2019 BANK STATEMENT   +++   CALLS IT 'VINTAGE'   +++   EMBASSY: 'WE WANT RECENT'   +++   ",
+ "title": [
+  "STALE",
+  "STATEMENT"
+ ],
+ "title_sub": "(older than his excuses)",
+ "freeze": "statement older than his phone",
+ "stamp": [
+  "OLD PROOF.",
+  "NO VISA."
+ ],
+ "teaser": "Next: The 'urgent' last-minute application. (Max again.)",
+ "caption": "Rejection reason of the day: outdated bank statements. Embassy wants recent. Max sent 2019. 🏦\nCheck your document checklist on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
