@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep22 – missed appointment",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Visa appointment at nine a.m. Max arrived at four p.m. Iconic.",
+   "Visa appointment at nine a.m. Max arrived at four p.m. Iconic."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Your appointment was this morning. Where were you?",
+   "Max. Your appointment was this morning. Where were you?"
+  ],
+  [
+   "max1",
+   "max",
+   "Sleeping. My body needed the appointment more than the embassy.",
+   "Sleeping. My body needed the appointment more than the embassy."
+  ],
+  [
+   "tia2",
+   "tia",
+   "You booked it two weeks ago! With reminders!",
+   "You booked it two weeks ago! With reminders!"
+  ],
+  [
+   "max2",
+   "max",
+   "I snoozed the reminders. Emotionally.",
+   "I snoozed the reminders. Emotionally."
+  ],
+  [
+   "off1",
+   "off",
+   "Appointment time was nine a.m. It is four p.m.",
+   "Appointment time was nine a.m. It is four p.m."
+  ],
+  [
+   "max3",
+   "max",
+   "I'm not late. I'm fashionably seven hours into the future.",
+   "I'm not late. I'm fashionably seven hours into the future."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir, there is no walk-in for fashionable people.",
+   "Sir, there is no walk-in for fashionable people."
+  ],
+  [
+   "max4",
+   "max",
+   "But I brought snacks! And my best apology face!",
+   "But I brought snacks! And my best apology face!"
+  ],
+  [
+   "off3",
+   "off",
+   "Missed appointment. Book again.",
+   "Missed appointment. Book again."
+  ],
+  [
+   "max5",
+   "max",
+   "The alarm had one job. And I fired it.",
+   "The alarm had one job. And I fired it."
+  ],
+  [
+   "tia3",
+   "tia",
+   "Check your slot the night before. Set two alarms.",
+   "Check your slot the night before. Set two alarms."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Track your dates on krosz dot com. I'm a passport, not an alarm clock!",
+   "Track your dates on krosz.com. I'm a passport, not an alarm clock!"
+  ]
+ ],
+ "ann": {
+  "max1": "alarm: ignored",
+  "tia2": "reminders: 4. read: 0.",
+  "off1": "Day 14 of 'tomorrow'.",
+  "max3": "time is a vibe",
+  "off2": "vibes ≠ slots",
+  "max4": "snacks ≠ slot",
+  "max5": "Alarm fired. Max fired it.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": [
+  "VISA SLOT: 9 AM",
+  "OVERSLEPT",
+  "MAX ARRIVES:",
+  "4 PM"
+ ],
+ "hook_size": 120,
+ "ticker": "MAN MISSES VISA APPOINTMENT   +++   BLAMES THE ALARM   +++   CALLS IT 'FASHIONABLY LATE'   +++   EMBASSY: 'BOOK AGAIN'   +++   ",
+ "title": [
+  "OFFICER",
+  "REPLIES"
+ ],
+ "title_sub": "(the clock did not care)",
+ "freeze": "7 hours late. fashionably.",
+ "stamp": [
+  "MISSED.",
+  "REBOOK."
+ ],
+ "teaser": "Next: The 'creative' paperwork. (Max again.)",
+ "caption": "Rejection reason of the day: missing your visa appointment. Slot: 9 AM. Max: 4 PM. ⏰\nTrack your dates and checklist on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
