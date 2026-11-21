@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep25 – inconsistent information",
+ "lines": [
+  ["cp1","cp","Visa rule: details must match everywhere. Max's application has three different jobs.","Visa rule: details must match everywhere. Max's application has three different jobs."],
+  ["tia1","tia","Max. Your form says doctor. Your bank says student.","Max. Your form says doctor. Your bank says student."],
+  ["max1","max","And my LinkedIn says CEO. I'm multitalented, Tia.","And my LinkedIn says CEO. I'm multitalented, Tia."],
+  ["tia2","tia","Officers compare documents. They don't compare vibes!","Officers compare documents. They don't compare vibes!"],
+  ["max2","max","...Can't a man be a doctor, a student and a CEO?","...Can't a man be a doctor, a student and a CEO?"],
+  ["off1","off","Application.","Application."],
+  ["max3","max","Three jobs, one man. Very efficient, right?","Three jobs, one man. Very efficient, right?"],
+  ["off2","off","Sir. Your salary slip says 'Professional Napper'.","Sir. Your salary slip says 'Professional Napper'."],
+  ["max4","max","That's my side hustle! Don't judge my nap game!","That's my side hustle! Don't judge my nap game!"],
+  ["off3","off","Information inconsistent. Next.","Information inconsistent. Next."],
+  ["max5","max","I was just keeping my options open...","I was just keeping my options open..."],
+  ["tia3","tia","One story. Same everywhere. Revolutionary idea.","One story. Same everywhere. Revolutionary idea."],
+  ["cp2","cp","Double-check your details on krosz dot com. I'm a passport, not a plot twist!","Double-check your details on krosz.com. I'm a passport, not a plot twist!"]
+ ],
+ "ann": {
+  "max1": "LinkedIn: CEO (self-appointed)",
+  "tia2": "documents > vibes",
+  "off1": "Day 3 of 'tomorrow'.",
+  "max3": "efficiency: 300%",
+  "off2": "job: professional napper",
+  "max4": "nap game: strong",
+  "max5": "options: open. visa: closed.",
+  "tia3": "Same story. Everywhere.",
+  "cp2": "My pages never contradict."
+ },
+ "hook": ["DATA RULE:","SAME DATA","MAX'S FORM:","THREE JOBS"],
+ "hook_size": 150,
+ "ticker": "MAN LISTS THREE JOBS ON ONE FORM   +++   SALARY SLIP SAYS 'PROFESSIONAL NAPPER'   +++   EMBASSY: 'PICK ONE'   +++   ",
+ "title": ["MIXED","STORY"],
+ "title_sub": "(doctor? student? CEO? yes.)",
+ "freeze": "three jobs. one application.",
+ "stamp": ["DATA DOES","NOT MATCH."],
+ "teaser": "Next: The mystery visa fee. (Max again.)",
+ "caption": "Rejection reason of the day: inconsistent information. Your form, documents and bank details must tell the same story. Max's form said doctor, bank said student, LinkedIn said CEO. 🩺🎓👔\nDouble-check your details on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
