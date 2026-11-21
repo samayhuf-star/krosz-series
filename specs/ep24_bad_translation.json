@@ -1,0 +1,114 @@
+{
+ "title_ep": "Ep24 – untranslated documents",
+ "lines": [
+  [
+   "cp1",
+   "cp",
+   "Embassy wanted translated documents. Max submitted them in Google Translate screenshots.",
+   "Embassy wanted translated documents. Max submitted them in Google Translate screenshots."
+  ],
+  [
+   "tia1",
+   "tia",
+   "Max. Those are screenshots. With ads.",
+   "Max. Those are screenshots. With ads."
+  ],
+  [
+   "max1",
+   "max",
+   "Translation is translation, Tia. It's the vibe that counts.",
+   "Translation is translation, Tia. It's the vibe that counts."
+  ],
+  [
+   "tia2",
+   "tia",
+   "They want certified translations. Not a robot's best guess.",
+   "They want certified translations. Not a robot's best guess."
+  ],
+  [
+   "max2",
+   "max",
+   "...But the robot was very confident.",
+   "...But the robot was very confident."
+  ],
+  [
+   "off1",
+   "off",
+   "Translated documents.",
+   "Translated documents."
+  ],
+  [
+   "max3",
+   "max",
+   "Fully translated. My birth certificate now says 'cheese potato'.",
+   "Fully translated. My birth certificate now says 'cheese potato'."
+  ],
+  [
+   "off2",
+   "off",
+   "Sir. Your name is not 'Cheese Potato'.",
+   "Sir. Your name is not 'Cheese Potato'."
+  ],
+  [
+   "max4",
+   "max",
+   "The app insisted! It has four stars!",
+   "The app insisted! It has four stars!"
+  ],
+  [
+   "off3",
+   "off",
+   "Translation invalid. Next.",
+   "Translation invalid. Next."
+  ],
+  [
+   "max5",
+   "max",
+   "Even Google betrayed me. Et tu, Translate?",
+   "Even Google betrayed me. Et tu, Translate?"
+  ],
+  [
+   "tia3",
+   "tia",
+   "Certified translation. Stamped. Human. Wild concept.",
+   "Certified translation. Stamped. Human. Wild concept."
+  ],
+  [
+   "cp2",
+   "cp",
+   "Check your document checklist on krosz dot com. I'm a passport, not a dictionary!",
+   "Check your document checklist on krosz.com. I'm a passport, not a dictionary!"
+  ]
+ ],
+ "ann": {
+  "max1": "vibe-based translation",
+  "tia2": "certified. human. stamped.",
+  "off1": "Day 2 of 'tomorrow'.",
+  "max3": "birth cert: 'cheese potato'",
+  "off2": "name check: failed",
+  "max4": "app rating: 4 stars",
+  "max5": "Et tu, Translate?",
+  "tia3": "Translation: human.",
+  "cp2": "I speak fluent stamp."
+ },
+ "hook": [
+  "DOCUMENT RULE:",
+  "CERTIFIED",
+  "MAX'S PLAN:",
+  "GOOGLE TRANSLATE"
+ ],
+ "hook_size": 120,
+ "ticker": "MAN SUBMITS GOOGLE TRANSLATE SCREENSHOTS   +++   BIRTH CERTIFICATE SAYS 'CHEESE POTATO'   +++   EMBASSY: 'CERTIFIED ONLY'   +++   ",
+ "title": [
+  "BAD",
+  "TRANSLATE"
+ ],
+ "title_sub": "(lost in translation, literally)",
+ "freeze": "ads included in the translation",
+ "stamp": [
+  "NOT",
+  "CERTIFIED."
+ ],
+ "teaser": "Next: The mystery visa fee. (Max again.)",
+ "caption": "Rejection reason of the day: documents not properly translated. Embassy wants certified translations. Max sent Google Translate screenshots. 🌐\nCheck your document checklist on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
