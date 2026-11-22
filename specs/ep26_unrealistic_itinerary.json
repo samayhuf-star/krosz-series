@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep26 – unrealistic itinerary",
+ "lines": [
+  ["cp1","cp","Visa rule: your itinerary must be realistic. Max planned nine countries in five days.","Visa rule: your itinerary must be realistic. Max planned nine countries in five days."],
+  ["tia1","tia","Max. Nine countries. Five days. Do you own a jet?","Max. Nine countries. Five days. Do you own a jet?"],
+  ["max1","max","No, but I own a very ambitious spreadsheet.","No, but I own a very ambitious spreadsheet."],
+  ["tia2","tia","Officers check if your plan makes sense. Yours makes confetti.","Officers check if your plan makes sense. Yours makes confetti."],
+  ["max2","max","Paris for breakfast, Rome for lunch. Easy, right?","Paris for breakfast, Rome for lunch. Easy, right?"],
+  ["off1","off","Itinerary.","Itinerary."],
+  ["max3","max","Day one: three countries. I'll sleep on the plane.","Day one: three countries. I'll sleep on the plane."],
+  ["off2","off","Sir. Your Tuesday has a flight landing before it takes off.","Sir. Your Tuesday has a flight landing before it takes off."],
+  ["max4","max","Time zones! That's a bonus feature, not a bug!","Time zones! That's a bonus feature, not a bug!"],
+  ["off3","off","Plan not realistic. Next.","Plan not realistic. Next."],
+  ["max5","max","I wanted to see everything. Even the airports...","I wanted to see everything. Even the airports..."],
+  ["tia3","tia","Fewer stops. More sense. Revolutionary idea.","Fewer stops. More sense. Revolutionary idea."],
+  ["cp2","cp","Plan sensibly on krosz dot com. I'm a passport, not a time machine!","Plan sensibly on krosz.com. I'm a passport, not a time machine!"]
+ ],
+ "ann": {
+  "max1": "spreadsheet: very ambitious",
+  "tia2": "plan > confetti",
+  "off1": "Day 3 of 'tomorrow'.",
+  "max3": "sleep: on the plane",
+  "off2": "landing before takeoff?",
+  "max4": "time zones: a feature",
+  "max5": "countries: 9. sense: 0.",
+  "tia3": "Fewer stops. More sense.",
+  "cp2": "My pages never time travel."
+ },
+ "hook": ["ITINERARY RULE:","REALISTIC","MAX'S PLAN:","9 COUNTRIES"],
+ "hook_size": 150,
+ "ticker": "MAN PLANS NINE COUNTRIES IN FIVE DAYS   +++   FLIGHT LANDS BEFORE IT TAKES OFF   +++   EMBASSY: 'ARE YOU A JET?'   +++   ",
+ "title": ["NINE","COUNTRIES"],
+ "title_sub": "(five days. zero sleep.)",
+ "freeze": "nine countries. five days.",
+ "stamp": ["PLAN IS","IMPOSSIBLE"],
+ "teaser": "Next: The trust-me-bro sponsor letter. (Max again.)",
+ "caption": "Rejection reason of the day: unrealistic itinerary. Your travel plan should make sense for the time and money you have. Max planned nine countries in five days. Paris for breakfast, Rome for lunch. ✈️🗺️\nPlan sensibly on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
