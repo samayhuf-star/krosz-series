@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep27 – unverifiable sponsor letter",
+ "lines": [
+  ["cp1","cp","Visa rule: sponsor letters must be genuine. Max's sponsor: his friend Sunny. Handwritten.","Visa rule: sponsor letters must be genuine. Max's sponsor: his friend Sunny. Handwritten."],
+  ["tia1","tia","Max. Who exactly is paying for this trip?","Max. Who exactly is paying for this trip?"],
+  ["max1","max","Sunny. He said 'bro, I got you.' That's a contract.","Sunny. He said 'bro, I got you.' That's a contract."],
+  ["tia2","tia","A sponsor needs proof. Bro-energy is not proof.","A sponsor needs proof. Bro-energy is not proof."],
+  ["max2","max","Sunny signed it. With a smiley face. Very official.","Sunny signed it. With a smiley face. Very official."],
+  ["off1","off","Sponsor letter.","Sponsor letter."],
+  ["max3","max","Written on a napkin. Premium napkin though.","Written on a napkin. Premium napkin though."],
+  ["off2","off","Sir. Who is Sunny? Where is his proof?","Sir. Who is Sunny? Where is his proof?"],
+  ["max4","max","He's a vibe! He has a bike!","He's a vibe! He has a bike!"],
+  ["off3","off","Sponsor not verified. Next.","Sponsor not verified. Next."],
+  ["max5","max","Sunny said he got me. He did not.","Sunny said he got me. He did not."],
+  ["tia3","tia","Real documents. Real sponsor. Zero napkins.","Real documents. Real sponsor. Zero napkins."],
+  ["cp2","cp","Get your documents right on krosz dot com. I'm a passport, not a napkin!","Get your documents right on krosz.com. I'm a passport, not a napkin!"]
+ ],
+ "ann": {
+  "max1": "'bro I got you' = contract",
+  "tia2": "bro-energy ≠ proof",
+  "off1": "Day 4 of 'tomorrow'.",
+  "max3": "premium napkin",
+  "off2": "who is Sunny??",
+  "max4": "Sunny: has a bike",
+  "max5": "Sunny did not got him.",
+  "tia3": "Zero napkins. Please.",
+  "cp2": "I have seen napkins."
+ },
+ "hook": ["SPONSOR RULE:","GENUINE","MAX'S SPONSOR:","SUNNY (BRO)"],
+ "hook_size": 120,
+ "ticker": "MAN SUBMITS SPONSOR LETTER ON A NAPKIN   +++   SPONSOR: 'SUNNY, HAS A BIKE'   +++   EMBASSY: 'WHO?'   +++   ",
+ "title": ["SUNNY","SPONSORS"],
+ "title_sub": "(on a napkin. smiley signed.)",
+ "freeze": "sponsor letter: on a napkin",
+ "stamp": ["SPONSOR","UNVERIFIED"],
+ "teaser": "Next: The 'my cousin knows the officer' plan. (Max again.)",
+ "caption": "Rejection reason of the day: sponsor letter that can't be verified. If someone sponsors your trip, you need genuine, verifiable documents from them. Max's proof: a napkin from his friend Sunny. 🧻😭\nGet your documents right on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
