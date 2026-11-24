@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep28 – visa fee not paid",
+ "lines": [
+  ["cp1","cp","Visa rule: the fee must be paid. Max paid his fee in good vibes.","Visa rule: the fee must be paid. Max paid his fee in good vibes."],
+  ["tia1","tia","Max. Did you pay the visa fee?","Max. Did you pay the visa fee?"],
+  ["max1","max","Yes. I sent a thumbs up emoji. Very generous.","Yes. I sent a thumbs up emoji. Very generous."],
+  ["tia2","tia","Emojis are not accepted currency. Not even the fire one.","Emojis are not accepted currency. Not even the fire one."],
+  ["max2","max","Then I'll pay exposure. Embassy gets my story views.","Then I'll pay exposure. Embassy gets my story views."],
+  ["off1","off","Fee receipt.","Fee receipt."],
+  ["max3","max","I have a screenshot of me thinking about paying.","I have a screenshot of me thinking about paying."],
+  ["off2","off","Sir. Is that payment? Or a selfie?","Sir. Is that payment? Or a selfie?"],
+  ["max4","max","It's a payment of intention! Intention is free!","It's a payment of intention! Intention is free!"],
+  ["off3","off","Fee unpaid. Next.","Fee unpaid. Next."],
+  ["max5","max","Free is free. Why does it cost money?","Free is free. Why does it cost money?"],
+  ["tia3","tia","Pay the real fee. Keep the receipt. Skip the emoji.","Pay the real fee. Keep the receipt. Skip the emoji."],
+  ["cp2","cp","Check your fee steps on krosz dot com. I'm a passport, not a piggy bank!","Check your fee steps on krosz.com. I'm a passport, not a piggy bank!"]
+ ],
+ "ann": {
+  "max1": "thumbs up = payment",
+  "tia2": "emoji ≠ currency",
+  "off1": "Receipt: not found.",
+  "max3": "screenshot of thinking",
+  "off2": "payment or selfie??",
+  "max4": "intention is free",
+  "max5": "Free is not free.",
+  "tia3": "Real fee. Real receipt.",
+  "cp2": "I hold no change."
+ },
+ "hook": ["VISA RULE:","PAY FEE","MAX PAID:","A THUMBS UP"],
+ "hook_size": 120,
+ "ticker": "MAN PAYS VISA FEE WITH THUMBS UP EMOJI   +++   RECEIPT: A SELFIE   +++   EMBASSY: 'NOPE'   +++   ",
+ "title": ["EMOJI","PAYMENT"],
+ "title_sub": "(thumbs up. very generous.)",
+ "freeze": "fee paid: one thumbs up emoji",
+ "stamp": ["FEE","UNPAID"],
+ "teaser": "Next: The 'I'll just wing the interview' plan. (Max again.)",
+ "caption": "Rejection reason of the day: visa fee not paid or payment proof missing. Applications usually need the correct fee paid and a valid receipt kept safely. Max's payment: a thumbs up emoji. 👍😭\nGet your steps right on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
