@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep29 – wrong photo size",
+ "lines": [
+  ["cp1","cp","Visa rule: photo must be the right size. Max sent a thumbnail.","Visa rule: photo must be the right size. Max sent a thumbnail."],
+  ["tia1","tia","Max. Why is your visa photo the size of a stamp?","Max. Why is your visa photo the size of a stamp?"],
+  ["max1","max","Minimalism, Tia. Less face, more mystery.","Minimalism, Tia. Less face, more mystery."],
+  ["tia2","tia","They need to see your face. Not guess it.","They need to see your face. Not guess it."],
+  ["max2","max","I'll just zoom in. Everything gets sharper that way.","I'll just zoom in. Everything gets sharper that way."],
+  ["off1","off","Photograph.","Photograph."],
+  ["max3","max","It's a selfie from a group pic. Cropped. Mostly.","It's a selfie from a group pic. Cropped. Mostly."],
+  ["off2","off","Sir. That is someone's elbow. Whose elbow?","Sir. That is someone's elbow. Whose elbow?"],
+  ["max4","max","My cousin's! He's very supportive!","My cousin's! He's very supportive!"],
+  ["off3","off","Wrong size. Next.","Wrong size. Next."],
+  ["max5","max","Even the elbow got rejected. Rude.","Even the elbow got rejected. Rude."],
+  ["tia3","tia","Check the size rules. One face. Zero elbows.","Check the size rules. One face. Zero elbows."],
+  ["cp2","cp","Check photo sizes on krosz dot com. I'm a passport, not a photo editor!","Check photo sizes on krosz.com. I'm a passport, not a photo editor!"]
+ ],
+ "ann": {
+  "max1": "face: loading... never",
+  "tia2": "bestie... zoom?",
+  "off1": "Day 12 of 'tomorrow'.",
+  "max3": "crop level: chaos",
+  "off2": "elbow ≠ applicant",
+  "max4": "cousin cameo (uninvited)",
+  "max5": "He trusted the crop.",
+  "tia3": "Receipts: attached.",
+  "cp2": "I have seen things."
+ },
+ "hook": ["VISA PHOTO RULE:","RIGHT SIZE","MAX'S PHOTO:","TINY + ELBOW"],
+ "hook_size": 120,
+ "ticker": "MAN SENDS STAMP-SIZED VISA PHOTO   +++   INCLUDES COUSIN'S ELBOW   +++   EMBASSY: 'PLEASE NO'   +++   ",
+ "title": ["WRONG","SIZE"],
+ "title_sub": "(the elbow was huge)",
+ "freeze": "this man submitted an elbow",
+ "stamp": ["BAD SIZE.","NO VISA."],
+ "teaser": "Next: The expired insurance. (Max again.)",
+ "caption": "Rejection reason of the day: wrong photo size. Max sent a thumbnail with his cousin's elbow. 📏\nCheck the photo size rules on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
