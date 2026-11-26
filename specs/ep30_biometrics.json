@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep30 – biometrics skipped",
+ "lines": [
+  ["cp1","cp","Visa rule: give your fingerprints. Max sent a thumb photo.","Visa rule: give your fingerprints. Max sent a thumb photo."],
+  ["tia1","tia","Max. Did you book your biometrics appointment?","Max. Did you book your biometrics appointment?"],
+  ["max1","max","Tia. My thumb is right here. Digital era.","Tia. My thumb is right here. Digital era."],
+  ["tia2","tia","Fingerprints are scanned in person. Not WhatsApped.","Fingerprints are scanned in person. Not WhatsApped."],
+  ["max2","max","I'll send a blurry thumb. With a nice filter.","I'll send a blurry thumb. With a nice filter."],
+  ["off1","off","Biometrics.","Biometrics."],
+  ["max3","max","I sent my thumb on WhatsApp. Blue ticks and everything.","I sent my thumb on WhatsApp. Blue ticks and everything."],
+  ["off2","off","Sir. A thumb photo is not a fingerprint scan.","Sir. A thumb photo is not a fingerprint scan."],
+  ["max4","max","But it's my best thumb! Very photogenic!","But it's my best thumb! Very photogenic!"],
+  ["off3","off","No biometrics. Next.","No biometrics. Next."],
+  ["max5","max","They rejected my thumb. Thumbs down. Literally.","They rejected my thumb. Thumbs down. Literally."],
+  ["tia3","tia","Book the biometrics slot. Show up. Bring all ten fingers.","Book the biometrics slot. Show up. Bring all ten fingers."],
+  ["cp2","cp","Check biometric steps on krosz dot com. I'm a passport, not a thumb whisperer!","Check biometric steps on krosz.com. I'm a passport, not a thumb whisperer!"]
+ ],
+ "ann": {
+  "max1": "thumb = identity (he thinks)",
+  "tia2": "in person, bestie",
+  "off1": "Day 3 of 'ghosting the slot'.",
+  "max3": "sent: 1 thumb. read: 2:14pm",
+  "off2": "thumb ≠ scan",
+  "max4": "thumb headshot (uninvited)",
+  "max5": "Thumbs down. Literally.",
+  "tia3": "Ten fingers. Zero filters.",
+  "cp2": "I have felt things."
+ },
+ "hook": ["VISA RULE:","BIOMETRICS","MAX'S PROOF:","ONE THUMB"],
+ "hook_size": 120,
+ "ticker": "MAN SENDS THUMB PHOTO AS FINGERPRINTS   +++   DELIVERED ON WHATSAPP   +++   EMBASSY: 'PLEASE COME IN PERSON'   +++   ",
+ "title": ["NO","THUMBS"],
+ "title_sub": "(biometrics, not selfies)",
+ "freeze": "this man WhatsApped his thumb",
+ "stamp": ["NO SCAN.","NO VISA."],
+ "teaser": "Next: The wrong visa dates. (Max again.)",
+ "caption": "Rejection reason of the day: biometrics not completed. Max sent a thumb photo on WhatsApp instead of showing up for a scan. 👍\nCheck the biometrics steps on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
