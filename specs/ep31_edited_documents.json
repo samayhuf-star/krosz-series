@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep31 – edited documents",
+ "lines": [
+  ["cp1","cp","Visa rule: documents must be genuine. Max edited his bank balance.","Visa rule: documents must be genuine. Max edited his bank balance."],
+  ["tia1","tia","Max. Why does your statement say one crore?","Max. Why does your statement say one crore?"],
+  ["max1","max","Tia. I improved it. In Canva. Free trial.","Tia. I improved it. In Canva. Free trial."],
+  ["tia2","tia","That's not improving. That's forging. Different font, too.","That's not improving. That's forging. Different font, too."],
+  ["max2","max","Relax. Nobody checks. It has a cute border.","Relax. Nobody checks. It has a cute border."],
+  ["off1","off","Bank statement.","Bank statement."],
+  ["max3","max","Very real. Very rich. Very Comic Sans.","Very real. Very rich. Very Comic Sans."],
+  ["off2","off","Sir. Your balance changed font halfway.","Sir. Your balance changed font halfway."],
+  ["max4","max","That's called ambition! Please don't call my bank!","That's called ambition! Please don't call my bank!"],
+  ["off3","off","Altered documents. Rejected.","Altered documents. Rejected."],
+  ["max5","max","My balance got edited. By them. Rude.","My balance got edited. By them. Rude."],
+  ["tia3","tia","Submit real documents. Even if they're humble.","Submit real documents. Even if they're humble."],
+  ["cp2","cp","Check genuine document rules on krosz dot com. I'm a passport, not a photoshop tutorial!","Check genuine document rules on krosz.com. I'm a passport, not a Photoshop tutorial!"]
+ ],
+ "ann": {
+  "max1": "Canva Pro (7-day trial)",
+  "tia2": "forging ≠ improving",
+  "off1": "Zeros: suspiciously fresh.",
+  "max3": "font: Comic Sans",
+  "off2": "font changed mid-balance",
+  "max4": "ambition ≠ evidence",
+  "max5": "He edited it first. Fair.",
+  "tia3": "Humble but real wins.",
+  "cp2": "I have seen things."
+ },
+ "hook": ["VISA RULE:","REAL DOCS","MAX'S PLAN:","CANVA"],
+ "hook_size": 150,
+ "ticker": "MAN EDITS BANK BALANCE IN CANVA   +++   ZEROS ADDED FOR VIBES   +++   EMBASSY: 'WHY IS THIS COMIC SANS'   +++   ",
+ "title": ["FAKE","ZEROS"],
+ "title_sub": "(real documents only)",
+ "freeze": "this man edited his own balance",
+ "stamp": ["ALTERED.","REJECTED."],
+ "teaser": "Next: The vague bank history. (Max again.)",
+ "caption": "Rejection reason of the day: altered or inaccurate documents. Max 'improved' his bank statement in Canva and added a few zeros. 💸\nAlways submit genuine, unedited documents. Check the document steps on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
