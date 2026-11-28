@@ -1,0 +1,38 @@
+{
+ "title_ep": "Ep32 – damaged passport",
+ "lines": [
+  ["cp1","cp","Visa rule: passport must be intact. Max's went through the washing machine.","Visa rule: passport must be intact. Max's went through the washing machine."],
+  ["tia1","tia","Max. Why is your passport hanging on the balcony?","Max. Why is your passport hanging on the balcony?"],
+  ["max1","max","Drying. It was in my jeans. Eco-friendly wash.","Drying. It was in my jeans. Eco-friendly wash."],
+  ["tia2","tia","Its pages are stuck together. The photo is a watercolour!","Its pages are stuck together. The photo is a watercolour!"],
+  ["max2","max","Vintage look, Tia. Very artisanal.","Vintage look, Tia. Very artisanal."],
+  ["off1","off","Passport.","Passport."],
+  ["max3","max","Slightly crispy. Smells fresh, though. Lavender.","Slightly crispy. Smells fresh, though. Lavender."],
+  ["off2","off","Sir. Your name is now a blue cloud.","Sir. Your name is now a blue cloud."],
+  ["max4","max","It's called a soft launch! Please don't scan it!","It's called a soft launch! Please don't scan it!"],
+  ["off3","off","Damaged passport. Rejected.","Damaged passport. Rejected."],
+  ["max5","max","I wash everything. Why not my passport?","I wash everything. Why not my passport?"],
+  ["tia3","tia","Get a replacement passport first. Then travel.","Get a replacement passport first. Then travel."],
+  ["cp2","cp","Keep me dry, check krosz dot com. I'm a passport, not a submarine!","Keep me dry, check krosz.com. I'm a passport, not a submarine!"]
+ ],
+ "ann": {
+  "max1": "cycle: delicate",
+  "tia2": "pages: now one page",
+  "off1": "Still damp.",
+  "max3": "scent: lavender",
+  "off2": "name: blue cloud",
+  "max4": "soft launch (soggy)",
+  "max5": "Fresh. Clean. Invalid.",
+  "tia3": "Dry passport = valid vibes.",
+  "cp2": "I have seen things."
+ },
+ "hook": ["VISA RULE:","INTACT","MAX'S PASSPORT:","LAUNDERED"],
+ "hook_size": 150,
+ "ticker": "MAN WASHES PASSPORT WITH JEANS   +++   CALLS IT 'ECO-FRIENDLY'   +++   EMBASSY: 'WHY IS IT DAMP'   +++   ",
+ "title": ["SOGGY","PASSPORT"],
+ "title_sub": "(intact documents only)",
+ "freeze": "this man washed his passport",
+ "stamp": ["DAMAGED.","REJECTED."],
+ "teaser": "Next: The interview answers. (Max again.)",
+ "caption": "Rejection reason of the day: a damaged passport. Max ran his through the washing machine. Lavender scent, zero validity. 🧺\nKeep your passport intact and check the passport rules on krosz.com before you apply.\nVisa rules vary by country. AI-generated animation.\n#visa #visarejection #indiantravel #krosz #travelmemes #passport"
+}
